@@ -6,7 +6,7 @@ func main() {
 	type noKTP string;
 	type statusKuliah bool;
 
-	var KtpRafi noKTP = "3320122408960005";
+	var KtpRafi noKTP = "3320123008990000";
 	var lulus statusKuliah = true;
 	var tidakLulus statusKuliah = false;
 
